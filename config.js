@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "Ne sevmesi oğlum, aşığım aşıkk!!! ❤️"           // Secret hover message
         },
         second: {
-            text: " Ne kadar seviyorsun??? ",                          // For the love meter
+            text: " Beni ne kadar seviyorsun??? ",                          // For the love meter
             startText: "Tam da BU KADAR",                                   // Text before the percentage
             nextBtn: " Sıradaki ❤️"                                         // Text for the next button
         },
