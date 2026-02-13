@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "Biraz fazla oldu ama inandım :) 🥰💝",  // Shows when they go past 5000%
-        high: "Umarım bu metrik gibi sonsuza kadar gider aşkımız seni çoook seviyorum 💝",              // Shows when they go past 1000%
+        high: "Umarım bu metrik gibi sonsuza kadar gider aşkımız seni çok seviyorum 💝",              // Shows when they go past 1000%
         normal: "ooo daha da fazla 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: " Beni dünyanın en şanslı erkeği yaptığın için teşekkür ederim!💖💝💓",
-        message: "Tebrikler bu arada, ödülü hakettin yarın ödülünü vericemm ;)",
+        title: " Beni dünyanın en şanslı erkeği yaptığın için çok teşekkür ederim, iyi ki varsın!💖💝💓",
+        message: " B 💖 N ;)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
