@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: " Bu yıl 2. 14 Şubatımızz Heyecanlı mısın :) ? 💝",
+    pageTitle: " Bu yıl 2. 14 Şubatımızz, Heyecanlı mısın :) ? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://res.cloudinary.com/dta7wtnn0/video/upload/v1770968305/Mazzy_Star_-_Fade_Into_You_Official_Music_Video_ncbgjv.mp4", // Music streaming URL
+        startText: "🎵 Müzik Çal ",        // Button text to start music
+        stopText: "🔇 Müziği Durdur ",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
