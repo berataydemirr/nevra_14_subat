@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Peki beni seviyor musun? ",                                    // First interaction
+            text: "Beni seviyor musunuz efenim? ",                                    // First interaction
             yesBtn: "Evet",                                             // Text for "Yes" button
             noBtn: "Hayır",                                               // Text for "No" button
-            secretAnswer: "Ne sevmesi oğlum, aşığım!!! ❤️"           // Secret hover message
+            secretAnswer: "Ne sevmesi oğlum, aşığım aşıkk!!! ❤️"           // Secret hover message
         },
         second: {
             text: " Ne kadar seviyorsun??? ",                          // For the love meter
@@ -34,17 +34,17 @@ const CONFIG = {
         },
         third: {
             text: "Bu 14 Şubatta da benim sevgilim olur musun? 🌹", // The big question!
-            yesBtn: "Evet, tabiii ki",                                             // Text for "Yes" button
-            noBtn: "Yok :) "                                                 // Text for "No" button
+            yesBtn: "Evet, tabiii ki :)",                                             // Text for "Yes" button
+            noBtn: "Düşünmem lazım"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "OOO demek bu kadar seviyon 🥰💝",  // Shows when they go past 5000%
+        extreme: "Bir tık abartı oldu gibi ama neyse :) 🥰💝",  // Shows when they go past 5000%
         high: "Umarım bu metrik gibi sonsuza kadar gider aşkımız seni çoook seviyorum 💝",              // Shows when they go past 1000%
-        normal: "OOO Daha da ileri 🥰"                           // Shows when they go past 100%
+        normal: "ooo daha da ileri 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
