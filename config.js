@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yess dünyanın en şanslı erkeğiyim! 🎉💝💖💝💓",
-        message: "Tebrik ediyorum, ödülü hakettin yarın ödülünü vericemm :)",
+        title: " Beni dünyanın en şanslı erkeği yaptığın için teşekkür ederim!💖💝💓",
+        message: "Tebrikler bu arada, ödülü hakettin yarın ödülünü vericemm ;)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
