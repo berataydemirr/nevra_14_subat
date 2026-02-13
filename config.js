@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: " Beni dünyanın en şanslı erkeği yaptığın için çok teşekkür ederim, iyi ki varsın!💖💝💓",
-        message: " B 💖 N ;)",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: " B 💖 N ",
+        emojis: "💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
